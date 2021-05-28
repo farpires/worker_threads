@@ -1,0 +1,15 @@
+{
+  "name": "threadspractice",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "dependencies": {
+    "fibonacci": "^1.6.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arpires Fabio",
+  "license": "ISC"
+}
